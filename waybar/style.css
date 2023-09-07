@@ -1,0 +1,37 @@
+* {
+    border: none;
+    border-radius: 0;
+    font-family: CaskaydiaCove Nerd Font Mono;
+    font-size: 14px;
+    min-height: 0;
+}
+
+#waybar {
+	background: transparent;
+}
+
+#custom-date, #clock, #battery, #pulseaudio, #network, #language, #backlight {
+	background-color: rgba(46, 52, 64, 0.7);
+	padding: 5px 10px;
+	margin: 5px 0px;
+	color: #9DA9A0;
+}
+
+
+#custom-power {
+	border-radius: 5px;
+	margin-right: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	padding: 5px 10px;
+}
+
+#clock {
+    border-radius: 0px 5px 5px 0px;
+    margin-right: 10px;
+}
+
+#network {
+	border-radius: 5px 0px 0px 5px;
+}
