@@ -1,7 +1,5 @@
 # hyprland everforest 🌲
 
-https://github.com/binEpilo/Hyprland-Everforest/blob/main/showcase.mp4
-
 This is the repo with my dotfiles for Hyprland with the Everforest theme. Some comments might be German - because I am German.
 
 The dotfiles should be self explanatory but I need to give credit to a few people I got those from.
