@@ -11,6 +11,7 @@ The dotfiles should be self explanatory but I need to give credit to a few peopl
 2. [cenunix](https://github.com/cenunix/dotfiles) - I used his for my animations
 3. [This guy](https://gitlab.com/dochi77/arch-rices/-/tree/main/everforest/spicetify/Themes?ref_type=heads) - I used his spicetify theme
 4. [prtce](https://github.com/prtce/wofi) - I used this wofi theme and switched out the colors
+5. [Apeiros-46B](https://github.com/Apeiros-46B/everforest-walls) - I got my second wallpaper from his repo
 
 Additionally:
 
